@@ -1,0 +1,37 @@
+#root {
+  background: #e8e8e8;
+}
+
+.main-wrapper {
+  float: right;
+  padding: 0;
+  height: 100%;
+  overflow: scroll;
+  position: relative;
+  background: #e8e8e8;
+}
+
+.ch-body {
+  height: 100%;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+#root,
+.app-wrapper {
+  height: 100%;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

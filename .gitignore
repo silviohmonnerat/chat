@@ -1,0 +1,17 @@
+.env
+# testing
+server/coverage
+
+# production
+client/build
+
+# misc
+.DS_Store
+.history
+.vscode
+
+npm-debug.log*
+
+# dependencies
+client/node_modules
+server/node_modules
